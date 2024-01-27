@@ -21,7 +21,6 @@ View Scores: After finishing the quiz, review your answers and scores.
 
 Contributing
 Contributions to enhance features or improve functionality are welcome. Please follow the standard pull request process.
-![Screenshot_20240127_104349_Expo Go](https://github.com/MaryumShabbir/Quiz-App/assets/134226868/3a0c73af-4a3e-4943-92df-e0dc20436b8c)
-![Screenshot_20240127_104242_Expo Go](https://github.com/MaryumShabbir/Quiz-App/assets/134226868/478147bd-7ab0-4fda-b4c7-f4c83d60736e)
-![Screenshot_20240127_104231_Expo Go](https://github.com/MaryumShabbir/Quiz-App/assets/134226868/b197cc1a-e300-44ca-925d-c6de48e0818d)
-![Screenshot_20240127_104242_Expo Go](https://github.com/MaryumShabbir/Quiz-App/assets/134226868/97453ff5-3474-4999-801c-0e4230ed3a3d)
+
+![20240127_110707](https://github.com/MaryumShabbir/Quiz-App/assets/134226868/578a0392-25ee-4e2e-ae82-c3f244a2d732)
+![20240127_110749](https://github.com/MaryumShabbir/Quiz-App/assets/134226868/41f3dfa4-a4b2-46b4-a0a2-daa21de5c24d)
